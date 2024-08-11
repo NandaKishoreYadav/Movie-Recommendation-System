@@ -1,5 +1,4 @@
 # Movie Recommendation System
-=============================
 
 ## Overview
 -----------
